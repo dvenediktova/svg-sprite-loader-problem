@@ -39,8 +39,8 @@
       "parser": "babel-eslint"
     },
     "rules": {
-      "template-curly-spacing" : "off",
-      "indent" : "off"
+      "template-curly-spacing": "off",
+      "indent": "off"
     }
   },
   "browserslist": [

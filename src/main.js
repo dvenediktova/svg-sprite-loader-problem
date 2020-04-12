@@ -2,7 +2,7 @@ import Vue from 'vue';
 import ResolveSvgPlugin from '@/plugins/resolve-svg';
 import App from './App.vue';
 
-Vue.use(ResolveSvgPlugin);
+Vue.use(ResolveSvgPlugin, {});
 
 Vue.config.productionTip = false;
 
